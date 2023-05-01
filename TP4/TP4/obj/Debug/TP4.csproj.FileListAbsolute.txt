@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\bin\Debug\TP4.exe
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\bin\Debug\TP4.pdb
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\obj\Debug\TP4.exe
+C:\Users\Usuario\Desktop\Practico 6\TP4\TP4\obj\Debug\TP4.pdb
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\bin\Debug\TP4.exe
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\bin\Debug\TP4.pdb
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\obj\Debug\TP4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\obj\Debug\TP4.exe
+C:\Users\Usuario\Desktop\C#\Practico 6\TP4\TP4\obj\Debug\TP4.pdb
